@@ -16,7 +16,7 @@ public class Banco {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        login caj = new login();
+        Login caj = new Login();
         caj.setVisible(true);
     }
     
